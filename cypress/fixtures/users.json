@@ -1,10 +1,16 @@
 {
-  "testuser": {
+  "existing_user": {
     "username": "Katharina_Bernier",
     "password": "s3cret"
   },
-  "invaliduser": {
+  "invalid_user": {
     "username": "invalid_username",
     "password": "invalid_password"
+  }, 
+  "user_to_register" : {
+    "firstName" : "John",
+    "lastName" : "Doe", 
+    "username" : "JD2023", 
+    "password" : "123456"
   }
 }
